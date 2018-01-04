@@ -1,0 +1,460 @@
+[1219/121246:ERROR:gpu_info_collector_win.cc(91)] Can't retrieve a valid WinSAT assessment.
+[1219/121253:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121253:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121254:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[1219/121254:INFO:CONSOLE(0)] "ReferenceError: AdobeEdge is not defined
+    at about:blank:0:7", source: about:blank (0)
+[1219/121254:INFO:CONSOLE(0)] "ReferenceError: AdobeEdge is not defined
+    at about:blank:0:7", source: about:blank (0)
+[1219/121254:INFO:CONSOLE(0)] "ReferenceError: AdobeEdge is not defined
+    at about:blank:0:7", source: about:blank (0)
+[1219/121254:INFO:CONSOLE(0)] "ReferenceError: AdobeEdge is not defined
+    at about:blank:0:7", source: about:blank (0)
+[1219/121254:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[1219/121304:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121304:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121527:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121529:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121529:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121529:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121532:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121537:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/121537:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121542:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121547:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121552:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121557:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121602:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121607:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121612:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121617:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121622:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121627:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121632:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121637:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121642:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121647:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121652:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121657:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121702:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121707:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121712:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121717:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121722:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121727:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121732:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121737:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121742:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121747:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121752:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121757:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121802:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121807:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121812:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121817:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121822:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121827:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121832:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121837:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121842:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121847:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121852:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121857:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121902:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121907:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121912:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121917:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121922:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121927:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121932:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121937:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121942:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121947:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121952:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/121957:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122002:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122007:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122012:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122017:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122022:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122027:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122032:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122032:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122032:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122032:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122037:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/122043:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122043:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122054:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122054:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122455:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/122455:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123052:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123054:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123054:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123054:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123057:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123102:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123102:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123102:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123102:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123107:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123112:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123117:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123122:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123127:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123132:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123137:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123142:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123147:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123152:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123157:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123202:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123207:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123212:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123217:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123222:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123227:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123232:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123237:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123242:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123247:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123252:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123257:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123302:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123307:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123312:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123317:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123322:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123327:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123332:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123337:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123342:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123347:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123352:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123357:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123402:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123407:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123412:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123417:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123422:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123427:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123432:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123437:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123442:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123447:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123452:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123457:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123502:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123507:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123512:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123517:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123522:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123527:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123532:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123537:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123542:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123547:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123552:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123557:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123602:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123607:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123612:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123617:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123622:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123627:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123632:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123637:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123642:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123647:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123652:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123657:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123702:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123707:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123712:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123717:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123722:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123727:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123732:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123737:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123742:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123747:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123752:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123757:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123757:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123757:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/123757:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123802:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123807:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123812:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123817:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123822:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123827:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123832:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123837:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123842:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123847:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123852:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123857:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123902:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123907:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123912:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123917:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123922:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123927:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123932:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123937:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123942:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123947:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123952:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/123957:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124002:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124007:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124008:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/124008:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/124008:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/124012:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124017:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124022:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124027:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124032:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124037:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124042:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124047:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124052:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124057:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124102:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124107:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124112:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124117:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124122:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124127:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124132:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124137:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124142:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124147:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124152:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124157:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124202:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124207:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124212:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124217:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124222:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124227:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124232:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124237:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124242:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124247:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124252:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124257:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124302:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124307:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124312:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124317:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124322:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124327:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124332:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124337:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124342:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124347:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124352:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124357:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124402:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124407:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124412:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124417:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124422:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124427:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124432:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124437:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124442:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124447:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124452:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124457:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124502:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124508:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124513:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124518:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124523:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124528:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124533:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124538:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124543:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124548:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124553:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124558:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124603:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124608:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124613:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124618:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124623:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124628:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124633:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124638:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124643:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124648:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124653:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124658:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124703:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124708:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124713:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124718:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124723:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124728:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124733:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124738:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124743:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124748:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124753:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124758:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124803:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124808:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124813:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124818:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124823:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124828:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124833:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124838:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124843:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124848:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124853:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124858:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124903:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124908:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124913:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124918:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124923:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124928:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124933:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124938:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124943:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124948:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124953:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/124958:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125006:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125007:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125012:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125014:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125014:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125014:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125017:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125017:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125017:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125017:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125022:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125025:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125027:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125032:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125037:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125042:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125047:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125052:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125057:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125102:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125107:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125112:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/125118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125118:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125128:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125128:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125313:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125313:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/125645:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132428:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132431:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132435:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132435:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132440:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132440:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132451:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132451:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132709:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/132709:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/133612:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/133612:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/133613:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[1219/133733:INFO:CONSOLE(0)] "TypeError: Cannot read property 'nodeType' of undefined
+    at Function.F.accepts (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29278)
+    at Object.F.key (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29358)
+    at Object.F.get (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29781)
+    at Object.F.access (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29914)
+    at Function.x.extend.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:30537)
+    at undefined.c.Edge.undefined.c.Edge.Timeline.undefined.c.Edge.PropertyTween.c.width (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/edge.4.0.0.min.js:149:240)
+    at about:blank:0:67", source: about:blank (0)
+[1219/133733:INFO:CONSOLE(0)] "TypeError: Cannot read property 'nodeType' of undefined
+    at Function.F.accepts (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29278)
+    at Object.F.key (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29358)
+    at Object.F.get (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29781)
+    at Object.F.access (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29914)
+    at Function.x.extend.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:30537)
+    at undefined.c.Edge.undefined.c.Edge.Timeline.undefined.c.Edge.PropertyTween.c.height (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/AHMEDH~1/AppData/Local/Temp/Adobe/Edge%20Animate%204.0.0/Untitled-1/edge_includes/edge.4.0.0.min.js:150:113)
+    at about:blank:0:67", source: about:blank (0)
+[1219/143620:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143622:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143622:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143622:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143626:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143631:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143631:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143631:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143631:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143636:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143641:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143646:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143651:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143656:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143701:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143706:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143711:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143716:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143721:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143726:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143731:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143736:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143741:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143746:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143751:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143756:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143801:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143806:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143811:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143816:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143821:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143826:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143831:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[1219/143839:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143839:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143849:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/143849:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/151024:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/151024:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/151031:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[1219/151741:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/151741:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/151747:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[1219/153148:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153151:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153151:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153157:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153200:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153200:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153211:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/153211:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/154028:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/154028:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/154624:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/154624:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[1219/163412:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
